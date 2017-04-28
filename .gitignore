@@ -22,3 +22,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
+将删除 .idea/
+将删除 csapps.iml
